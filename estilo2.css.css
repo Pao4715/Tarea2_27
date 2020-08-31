@@ -1,0 +1,124 @@
+*{margin = 0 ; padding = 0;}
+
+body {
+  background-image: url("Imagenes/Fondo.jpg");
+}
+
+header{
+	margin: 20px auto;
+	background-color: Brown;
+	width: 80%;
+}
+
+footer{
+	margin: 20px auto;
+	background-color: Black;
+	width: 80%;
+}
+
+.cuerpo {
+	margin: 20px auto;
+	background-color: Bisque;
+	width: 80%;
+}
+
+.cuerpo .principal {
+	background-color: none;
+	width: 55%;
+	float: left;
+	margin-right: 3%;
+	margin-left: 2%;
+	margin-top: 3%;
+}
+
+.cuerpo .principal article {
+	background-color: Tomato;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.cuerpo .imagen1 {
+	background-color: none;
+	width: 37%;
+	float: right;
+	margin-right: 3%;
+	margin-top: 3%;
+}
+
+.cuerpo .imagen1 article {
+	background-color: Maroon;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.cuerpo .discografia {
+	background-color: none;
+	width: 34%;
+	float: left;
+	margin-top: 3%;
+	margin-right: 3%;
+	margin-left: 3%
+}
+
+.cuerpo .discografia article {
+	background-color: DarkGrey;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.cuerpo .video {
+	background-color: none;
+	width: 57%;
+	float: right;
+	margin-right: 3%;
+	margin-top: 3%;
+}
+
+.cuerpo .video article {
+	background-color: DarkSeanGreen;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.cuerpo .canciones {
+	background-color: none;
+	width: 34%;
+	float: left;
+	margin-right: 3%;
+	margin-left: 3%
+}
+
+.cuerpo .canciones article {
+	background-color: DarkSeanGreen;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+ul{
+	list-style-type: circle;
+}
+
+ul li{
+	font-size: 17px;
+}
+
+h1 {
+  color: Bisque;
+  text-align: center;
+}
+
+h2 {
+  	color: black;
+  	text-align: center;
+}
+
+h3 {
+  	color: DarkRed;
+  	text-align: center;
+}
+
+p {
+  	font-size: 17px;
+	text-align:justify;
+}
+

@@ -1,0 +1,117 @@
+*{margin = 0 ; padding = 0;}
+
+body {
+  background-color: PaleGreen;
+}
+
+header{
+	margin: 20px auto;
+	background-color: SeaGreen;
+	width: 80%;
+}
+
+header div {
+	background-color: LightSkyBlue;
+}
+
+header div ul {
+	background-color: LightSkyBlue;
+	list-style: none;
+}
+
+header div ul li {
+	background-color: LightSkyBlue;
+	float: left;
+	margin-left: 100px;
+}
+
+header div ul li a {
+	background-color: LightSkyBlue;
+	padding: 10px 5px;
+}
+
+.cuerpo {
+	margin: 20px auto;
+	background-color: CadetBlue;
+	width: 80%;
+}
+
+.cuerpo .parrafo1 {
+	background-color: none;
+	width: 65%;
+	float: left;
+	margin-right: 3%;
+	margin-left: 1%;
+	margin-top: 3%;
+}
+
+.cuerpo .parrafo1 article {
+	background-color: DarkSeaGreen;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.cuerpo .imagen1 {
+	background-color: none;
+	width: 27%;
+	float: right;
+	margin-right: 3%;
+	margin-top: 3%;
+}
+
+.cuerpo .imagen1 article {
+	background-color: BurlyWood;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.cuerpo .parrafo2 {
+	background-color: none;
+	width: 65%;
+	float: right;
+	margin-top: 3%;
+	margin-right: 3%;
+	margin-left: 3%
+}
+
+.cuerpo .parrafo2 article {
+	background-color: DarkSeaGreen;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+.cuerpo .imagen2 {
+	background-color: none;
+	width: 27%;
+	float: left;
+	margin-right: 2%;
+	margin-top: 2%;
+}
+
+.cuerpo .imagen2 article {
+	background-color: BurlyWood;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+
+h1 {
+  color: Bisque;
+  text-align: center;
+}
+
+h2 {
+  	color: black;
+  	text-align: center;
+}
+
+h3 {
+  	color: DarkRed;
+  	text-align: center;
+}
+
+p {
+  	font-size: 17px;
+	text-align:justify;
+}
+
